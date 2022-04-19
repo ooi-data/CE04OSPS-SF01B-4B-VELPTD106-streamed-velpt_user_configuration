@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSPS-SF01B-4B-VELPTD106-streamed-velpt_user_configuration
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Configuration Data<br>
+Instrument Group Code: VELPT<br>
